@@ -1,0 +1,25 @@
+/* id styles*/
+#navi{
+    background-color: #E7E0C9;
+}
+
+#bodyid{
+    background-color: #C1CFC0;
+}
+
+#abt{
+    background-color: #11324D;
+}
+ img{
+     height: 250px;
+     width: 400px;
+ }
+
+ footer{
+     height:20%;
+ }
+ .d1{
+     height: 40%;
+     width: 100%;
+     object-fit: contain;
+ }
